@@ -47,7 +47,7 @@ public class LimitedDetail extends Canvas implements Runnable {
 	}
 	
 	public static void main(String[] args) {
-		i = new LimitedDetail(180, 180 / 16 * 9, 4);
+		i = new LimitedDetail(360, 360 / 16 * 9, 2);
 		i.start();
 	}
 	
