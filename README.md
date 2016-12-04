@@ -1,4 +1,4 @@
-# LimitedDetailEngine
+# Limited Detail Engine
 
 This is a program that raytraces through an octree, which is filled with randomly colored perlin noise nodes, on the CPU.
 I wrote it in Java when I was about 15 years old as an attempt to recreate Euclideon's Unlimited Detail Engine, with little success.
